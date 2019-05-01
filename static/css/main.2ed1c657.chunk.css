@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);*{margin:0;padding:0}body{font-family:Open Sans Condensed,sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;letter-spacing:2px}body,button{text-align:center}button{border-radius:38px;padding:15px 32px;font-size:16px;margin-top:20px;border:none;background-color:#000;color:#fff;opacity:.75}button:hover{opacity:1;cursor:pointer}#app{opacity:.5}
+/*# sourceMappingURL=main.2ed1c657.chunk.css.map */
